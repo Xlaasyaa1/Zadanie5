@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vlad Glotov",
+	"description": "Kakoy to proect",
+	"keywords": [
+		"freecodecamp",
+		"krutoy",
+		"superskiy"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +18,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/Xlaasyaa1/Zadanie5.git"
 	}
 }
